@@ -6,6 +6,8 @@ This Jupyter kernel is base don the Bash Kernel found [here](https://github.com/
 
 This code uses the python REPLWrapper to wrap the REPL found in Gnu Smalltalk. 
 
+Enjoy !! 
+
 
 Installation
 ------------
