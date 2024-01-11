@@ -13,7 +13,7 @@ Installation
 ------------
 This requires IPython 3.
 
-    - pip install gst_kernel
+    - pip install git+https://github.com/anlytcs/gst_kernel
     - python -m gst_kernel.install
 
     
