@@ -2,7 +2,7 @@
 A Jupyter kernel for GNU Smalltalk
 ==================================
 
-This Jupyter kernel is base don the Bash Kernel found here https://github.com/takluyver/bash_kernel
+This Jupyter kernel is based on the Bash Kernel found here https://github.com/takluyver/bash_kernel
 
 This code uses the python REPLWrapper to wrap the REPL found in Gnu Smalltalk. 
 
